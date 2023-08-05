@@ -35,7 +35,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CP2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CP2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CP2003&label=Profile%20Views&color=1&pretty=true" /></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CP2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CP2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
