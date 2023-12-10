@@ -38,7 +38,7 @@
 <p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=CP2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-contributor-stats.vercel.app/api?username=CP2003&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CP2003&theme=dark&hide_border=true ) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CP2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-</p>p>
+</p>
 
 
 ## 🏆 GitHub Trophies
