@@ -29,7 +29,7 @@
 <h1 align="center">Pamod Madubashana</h1>
 
 <p align="center">
-  Network Engineering Student • Full-Stack Developer • Automation & Bots
+  Full-Stack Developer • Automation & Bots
 </p>
 
 <p align="center">
