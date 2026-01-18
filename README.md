@@ -197,10 +197,6 @@
   
   <br>
   
-  ### 🏆 GitHub Trophies
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=pamod-madubashana&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
   ### 📈 Contribution Graph
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
