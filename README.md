@@ -199,7 +199,7 @@
   
   ### 📈 Contribution Graph
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)]
   
 </div>
 
