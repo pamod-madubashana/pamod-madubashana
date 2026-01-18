@@ -1,102 +1,224 @@
-<p align="center">
-  <a href="https://github.com/pamod-madubashana">
-    <img src="https://i.ibb.co/5jcmCFj/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Pamod Madubashana" />
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Network+Engineering+Student;Full-Stack+Developer;Automation+%26+Bots+Specialist)](https://git.io/typing-svg)
+  
+  <br>
+  
+  <a href="https://pamod.is-a.dev">
+    <img src="https://i.ibb.co/5jcmCFj/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Pamod Madubashana" width="150" />
   </a>
+  
+  <h1>Pamod Madubashana</h1>
+  
+  <p>
+    <a href="https://pamod.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://github.com/pamod-madubashana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://dev.to/pamod-madubashana"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+    <a href="https://www.youtube.com/channel/UC2rLQmos3BarrcqBZKV9YsA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="https://discord.gg/fPrdqh3Zfu"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  </p>
+  
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=pamod-madubashana&style=flat-square&color=blue)
+  ![GitHub followers](https://img.shields.io/github/followers/pamod-madubashana?style=flat-square&logo=github)
+  ![GitHub stars](https://img.shields.io/github/stars/pamod-madubashana?style=flat-square&logo=github)
+  
+</div>
+
+<h1 align="center">Pamod Madubashana</h1>
+
+<p align="center">
+  Network Engineering Student • Full-Stack Developer • Automation & Bots
 </p>
 
 <p align="center">
-  <a href="https://github.com/pamod-madubashana">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Pamod%20Madubashana;Full-stack%20Web%20%26%20App%20Developer;UI%2FUX%20Designer%20%7C%204%2B%20Years%20Experience;Lifelong%20Learner%20%F0%9F%8C%8A&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
+  <a href="https://pamod.is-a.dev"><b>Portfolio</b></a> •
+  <a href="https://github.com/pamod-madubashana"><b>GitHub</b></a> •
+  <a href="https://dev.to/pamod-madubashana"><b>Dev.to</b></a> •
+  <a href="https://www.youtube.com/channel/UC2rLQmos3BarrcqBZKV9YsA"><b>YouTube</b></a> •
+  <a href="https://discord.gg/fPrdqh3Zfu"><b>Discord</b></a>
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
+<div align="center">
+  
+  ## 👋 About Me
+  
+  <table>
+    <tr>
+      <td width="70%">
+        <p>I'm <strong>Pamod Madubashana</strong>, a <strong>Network Engineering student</strong> who builds real-world projects using <strong>web development, backend systems, and automation</strong>.</p>
+        <ul align="left">
+          <li>🧠 Interested in <strong>Networking, Backend Engineering, APIs, and System Design</strong></li>
+          <li>🤖 Building <strong>Telegram bots</strong> (Pyrogram, automation, custom dashboards)</li>
+          <li>🌍 Working on full-stack apps with <strong>React + Express + MongoDB</strong></li>
+          <li>🎯 Focused on clean UI, fast systems, and scalable architecture</li>
+        </ul>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
-- 🔭 Currently building **Telegram bots**
-- 🌱 Learning **Python**, advanced **backend systems**, and **automation**
-- 💡 Passionate about clean UI, open-source, and solving real-world problems
-- 🎨 Experienced in **UI/UX Design** and **multimedia tools**
-- 🎯 Always pushing boundaries and learning something new
+<br>
 
----
+## 🧩 Current Focus
 
-## 🌐 Connect with Me
+| Status | Area | Description |
+|--------|------|-------------|
+| ✅ | Advanced Backend | Express / Node.js microservices & RESTful APIs |
+| ✅ | Database Design | MongoDB schema optimization & PostgreSQL |
+| ✅ | Automation | Telegram bots, Pyrogram, custom dashboards |
+| ✅ | DevOps | CI/CD pipelines, Docker, cloud deployments |
+| 🔧 | System Design | Scalable architectures & distributed systems |
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC2rLQmos3BarrcqBZKV9YsA"><img width="32px" src="https://i.imgur.com/qiXu7b2.png" alt="YouTube"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/PamodMadub83587"><img width="32px" src="https://i.imgur.com/OXZM1L6.png" alt="Twitter"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/fPrdqh3Zfu"><img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/pamod-madubashana"><img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="Dev.to"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/pamod-madubashana"><img width="32px" src="https://i.imgur.com/PpLeD3K.png" alt="Ko-fi"/></a>
-</p>
+<br>
 
----
+## 🛠️ Tech Stack
 
-## 💻 Tech Stack
+<div align="center">
+  
+  ### Languages
+  
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+  
+  ### Frontend
+  
+  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  
+  ### Backend
+  
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+  [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+  
+  ### Databases
+  
+  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+  
+  ### Tools & Platforms
+  
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+  [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+  [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+  
+</div>
 
-**Languages:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+<br>
 
-**Frameworks & Libraries:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+## 📌 Featured Projects
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🎬 Telegram Movie Filter Bot</h3>
+        <p>Fast search engine with smart filters and MongoDB storage</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/Pyrogram-0088CC?style=flat-square&logo=telegram" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>📂 Telegram File Server</h3>
+        <p>File delivery system with clean UI logic and fast transfers</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🌐 Portfolio Platform</h3>
+        <p>Full-stack platform with React frontend and Express backend</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>🤖 Automation Suite</h3>
+        <p>Custom bots and automation tools for productivity</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium" />
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  > 🔗 **More projects on my portfolio:** [**pamod.is-a.dev**](https://pamod.is-a.dev)
+  
+</div>
 
-**Dev Tools & Platforms:**  
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)  
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+<br>
 
-**Creative & Design Tools:**  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)  
-![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)  
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)  
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)  
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+## 📊 GitHub Statistics
 
----
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pamod-madubashana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamod-madubashana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamod-madubashana&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" height="180" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  ### 🏆 GitHub Trophies
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=pamod-madubashana&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ### 📈 Contribution Graph
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
-## 📈 GitHub Stats
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=pamod-madubashana&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=pamod-madubashana&theme=dark&hide_border=true)  
-![](https://github-contributor-stats.vercel.app/api?username=pamod-madubashana&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pamod-madubashana&theme=dark&hide_border=true&layout=compact)
+<div align="center">
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pamod-madubashana&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pamod-madubashana&icon=0&color=0" alt="visitor count"/>
-  </a>
-</p>
-
-<!-- Built using GPRM | https://gprm.itsvg.in -->
+  ### 📫 Let's Connect
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamodmadubashana@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamod-madubashana)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pamod_madubashana)
+  
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+</div>
