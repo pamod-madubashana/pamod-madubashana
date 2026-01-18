@@ -71,6 +71,7 @@
 
 | Status | Area | Description |
 |--------|------|-------------|
+| ✅ | Frontend Development | React hooks, state management, responsive UI |
 | ✅ | Advanced Backend | Express / Node.js microservices & RESTful APIs |
 | ✅ | Database Design | MongoDB schema optimization & PostgreSQL |
 | ✅ | Automation | Telegram bots, Pyrogram, custom dashboards |
