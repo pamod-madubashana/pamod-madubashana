@@ -9,6 +9,8 @@
   </a>
   
   <h1>Pamod Madubashana</h1>
+  <p>Full-Stack Developer • Automation & Bots</p>
+
   
   <p>
     <a href="https://pamod.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -25,9 +27,6 @@
   
 </div>
 
-<p align="center">
-  Full-Stack Developer • Automation & Bots
-</p>
 
 <br>
 
