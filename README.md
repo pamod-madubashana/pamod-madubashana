@@ -15,7 +15,6 @@
     <a href="https://github.com/pamod-madubashana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://dev.to/pamod-madubashana"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
     <a href="https://www.youtube.com/channel/UC2rLQmos3BarrcqBZKV9YsA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-    <a href="https://discord.gg/fPrdqh3Zfu"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   </p>
   
   <br>
