@@ -25,8 +25,6 @@
   
 </div>
 
-<h1 align="center">Pamod Madubashana</h1>
-
 <p align="center">
   Full-Stack Developer • Automation & Bots
 </p>
