@@ -29,14 +29,6 @@
   Full-Stack Developer • Automation & Bots
 </p>
 
-<p align="center">
-  <a href="https://pamod.is-a.dev"><b>Portfolio</b></a> •
-  <a href="https://github.com/pamod-madubashana"><b>GitHub</b></a> •
-  <a href="https://dev.to/pamod-madubashana"><b>Dev.to</b></a> •
-  <a href="https://www.youtube.com/channel/UC2rLQmos3BarrcqBZKV9YsA"><b>YouTube</b></a> •
-  <a href="https://discord.gg/fPrdqh3Zfu"><b>Discord</b></a>
-</p>
-
 <br>
 
 <div align="center">
