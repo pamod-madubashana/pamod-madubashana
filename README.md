@@ -21,7 +21,6 @@
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=pamod-madubashana&style=flat-square&color=blue)
   ![GitHub followers](https://img.shields.io/github/followers/pamod-madubashana?style=flat-square&logo=github)
   ![GitHub stars](https://img.shields.io/github/stars/pamod-madubashana?style=flat-square&logo=github)
   
