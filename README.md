@@ -3,11 +3,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Automation+%26+Bots+Specialist)](https://pamod.is-a.dev)
   
   <br>
-  
-  <a href="https://pamod.is-a.dev">
-    <img src="https://i.ibb.co/5jcmCFj/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Pamod Madubashana" width="150" />
-  </a>
-  
   <h1>Pamod Madubashana</h1>
   <p>Full-Stack Developer • Automation & Bots</p>
 
