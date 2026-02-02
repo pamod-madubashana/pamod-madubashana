@@ -20,9 +20,14 @@
   </p>
   
   <br>
-  [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-24292e?logo=github&logoColor=white)](https://github.com/sponsors/pamod-madubashana)
-  ![GitHub followers](https://img.shields.io/github/followers/pamod-madubashana?style=flat-square&logo=github)
-  ![GitHub stars](https://img.shields.io/github/stars/pamod-madubashana?style=flat-square&logo=github)
+<p align="center">
+  <a href="https://github.com/sponsors/pamod-madubashana">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-24292e?logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/pamod-madubashana?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/pamod-madubashana?style=flat-square&logo=github" />
+</p>
+
   
 </div>
 
