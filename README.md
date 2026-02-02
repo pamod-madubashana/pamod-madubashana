@@ -51,7 +51,6 @@
 
 <br>
 <div align="center">
-## 🧩 Current Focus
 
 | Status | Area | Description |
 |--------|------|-------------|
