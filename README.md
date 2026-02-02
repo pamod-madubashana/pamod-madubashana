@@ -50,7 +50,7 @@
 </div>
 
 <br>
-
+<div align="center">
 ## 🧩 Current Focus
 
 | Status | Area | Description |
@@ -61,7 +61,7 @@
 | ✅ | Automation | Telegram bots, Pyrogram, custom dashboards |
 | ✅ | DevOps | CI/CD pipelines, Docker, cloud deployments |
 | 🔧 | System Design | Scalable architectures & distributed systems |
-
+</div>
 <br>
 
   
