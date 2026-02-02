@@ -73,7 +73,6 @@
 <br>
 
   
-  ### 📈 Contribution Graph
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://pamod.is-a.dev)
   
@@ -85,7 +84,7 @@
 
   ### 📫 Let's Connect
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamodmadubashana@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pamod.is-a.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamod-madubashana)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pamod_madubashana)
   
