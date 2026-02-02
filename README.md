@@ -20,7 +20,7 @@
   </p>
   
   <br>
-  
+  <iframe src="https://github.com/sponsors/pamod-madubashana/button" title="Sponsor pamod-madubashana" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
   ![GitHub followers](https://img.shields.io/github/followers/pamod-madubashana?style=flat-square&logo=github)
   ![GitHub stars](https://img.shields.io/github/stars/pamod-madubashana?style=flat-square&logo=github)
   
