@@ -116,57 +116,6 @@
 
 <br>
 
-## 📌 Featured Projects
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🎬 Telegram Movie Filter Bot</h3>
-        <p>Fast search engine with smart filters and MongoDB storage</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-          <img src="https://img.shields.io/badge/Pyrogram-0088CC?style=flat-square&logo=telegram" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3>📂 Telegram File Server</h3>
-        <p>File delivery system with clean UI logic and fast transfers</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>🌐 Portfolio Platform</h3>
-        <p>Full-stack platform with React frontend and Express backend</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3>🤖 Automation Suite</h3>
-        <p>Custom bots and automation tools for productivity</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium" />
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  > 🔗 **More projects on my portfolio:** [**pamod.is-a.dev**](https://pamod.is-a.dev)
-  
-</div>
-
-<br>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
