@@ -1,5 +1,7 @@
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Automation+%26+Bots+Specialist)](https://pamod.is-a.dev)
+  
   <br>
   <h1>Pamod Madubashana</h1>
   
