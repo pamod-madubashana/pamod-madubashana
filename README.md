@@ -1,9 +1,5 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Automation+%26+Bots+Specialist)](https://pamod.is-a.dev)
-  
   <h1>Pamod Madubashana</h1>
-  
   <p>
     <a href="https://pamod.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://github.com/pamod-madubashana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -63,8 +59,6 @@
 </div>
 <br>
 
-  
-  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pamod-madubashana&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://pamod.is-a.dev)
   
 </div>
@@ -72,14 +66,6 @@
 <br>
 
 <div align="center">
-
-  ### 📫 Let's Connect
-  
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pamod.is-a.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamod-madubashana)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pamod_madubashana)
-  
-  <br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
