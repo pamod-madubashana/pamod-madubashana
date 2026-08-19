@@ -31,10 +31,8 @@
       <td width="70%">
         <p>I'm <strong>Pamod Madubashana</strong>, a <strong>Network Engineering student</strong> who builds real-world projects using <strong>web development, backend systems, and automation</strong>.</p>
         <ul align="left">
-          <li>🧠 Interested in <strong>Networking, Backend Engineering, APIs, and System Design</strong></li>
-          <li>🤖 Building <strong>Telegram bots</strong> (Pyrogram, automation, custom dashboards)</li>
-          <li>🌍 Working on full-stack apps with <strong>React + Express + MongoDB</strong></li>
-          <li>🎯 Focused on clean UI, fast systems, and scalable architecture</li>
+          <!--START_SECTION:waka-->
+          <!--END_SECTION:waka-->
         </ul>
       </td>
       <td width="30%" align="center">
