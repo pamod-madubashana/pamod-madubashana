@@ -32,7 +32,12 @@
         <p>I'm <strong>Pamod Madubashana</strong>, a <strong>Network Engineering student</strong> who builds real-world projects using <strong>web development, backend systems, and automation</strong>.</p>
         <ul align="left">
           <!--START_SECTION:waka-->
-          <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
         </ul>
       </td>
       <td width="30%" align="center">
