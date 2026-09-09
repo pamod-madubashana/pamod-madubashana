@@ -45,6 +45,8 @@
   
 </div>
 <div align="center">
+
+My weekly progress 📊
 <!--START_SECTION:waka-->
 
 ```txt
