@@ -50,11 +50,11 @@ My weekly progress 📊
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Rust         4 hrs 16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-JSON         1 hr 58 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Markdown     59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-TOML         49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Rust         3 hrs 10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
+Markdown     2 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
+JSON         1 hr 59 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+TypeScript   1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+JavaScript   1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 ```
 
 <!--END_SECTION:waka-->
