@@ -47,7 +47,7 @@
 <div align="center">
 
 
-<a href="https://wakatime.com/@f34609bb-00dc-498c-892b-87c4b3e577ff">
+<a href="https://github.com/pamod-madubashana">
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=f34609bb-00dc-498c-892b-87c4b3e577ff&theme=dark_github&langs_count=6" alt="WakaTime Stats" />
 </a>
 
