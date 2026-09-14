@@ -48,16 +48,16 @@
 
 ### WakaTime Stats (last 7 days)
 
-<a href="https://wakatime.com/@pamod-madubashana">
+<a href="https://wakatime.com/@f34609bb-00dc-498c-892b-87c4b3e577ff">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=pamod-madubashana&langs_count=6&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=f34609bb-00dc-498c-892b-87c4b3e577ff&langs_count=6&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pamod-madubashana&langs_count=6&theme=light_github" alt="WakaTime Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=f34609bb-00dc-498c-892b-87c4b3e577ff&langs_count=6&theme=light_github" alt="WakaTime Stats" />
   </picture>
 </a>
-<!-- Replace pamod-madubashana above with your WakaTime username (wakatime.com → Settings → Account → public profile username) and ensure WakaTime profile is public: wakatime.com/settings → Privacy → Display code/time publicly -->
+<!-- WakaTime username f34609bb-00dc-498c-892b-87c4b3e577ff verified (public profile https://wakatime.com/@f34609bb-00dc-498c-892b-87c4b3e577ff) — ensure WakaTime profile remains public: wakatime.com/settings → Privacy → Display code/time publicly -->
 
 </div>
 <br>
