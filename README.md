@@ -46,18 +46,19 @@
 </div>
 <div align="center">
 
-My weekly progress 📊
-<!--START_SECTION:waka-->
+### WakaTime Stats (last 7 days)
 
-```txt
-Other          2 hrs 47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Markdown       2 hrs 31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-JSON           2 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-YAML           2 hrs 1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Rust           1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-```
+<a href="https://wakatime.com/@pamod-madubashana">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=pamod-madubashana&langs_count=6&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pamod-madubashana&langs_count=6&theme=light_github" alt="WakaTime Stats" />
+  </picture>
+</a>
+<!-- Replace pamod-madubashana above with your WakaTime username (wakatime.com → Settings → Account → public profile username) and ensure WakaTime profile is public: wakatime.com/settings → Privacy → Display code/time publicly -->
 
-<!--END_SECTION:waka-->
 </div>
 <br>
 <div align="center">

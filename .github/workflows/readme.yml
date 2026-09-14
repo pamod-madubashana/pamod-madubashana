@@ -1,17 +1,14 @@
-name: Waka Readme
+# Waka Readme — disabled
+# Replaced by dynamic SVG card in README.md (github-stats-extended WakaTime card).
+# No workflow needed: card renders live via https://github-stats-extended.vercel.app/api/wakatime
+# This file is kept as a no-op placeholder to avoid breaking references; safe to delete.
+name: Waka Readme (disabled)
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  noop:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+      - run: echo "WakaTime card is now dynamic SVG — no workflow required."
