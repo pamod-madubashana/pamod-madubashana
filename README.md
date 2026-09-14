@@ -46,12 +46,11 @@
 </div>
 <div align="center">
 
-### WakaTime Stats (last 7 days)
 
 <a href="https://wakatime.com/@f34609bb-00dc-498c-892b-87c4b3e577ff">
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=f34609bb-00dc-498c-892b-87c4b3e577ff&theme=dark_github&langs_count=6" alt="WakaTime Stats" />
 </a>
-<!-- WakaTime username f34609bb-00dc-498c-892b-87c4b3e577ff verified (public profile https://wakatime.com/@f34609bb-00dc-498c-892b-87c4b3e577ff) — ensure WakaTime profile remains public: wakatime.com/settings → Privacy → Display code/time publicly -->
+
 
 </div>
 <br>
