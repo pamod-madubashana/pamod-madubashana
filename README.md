@@ -23,28 +23,6 @@
 <br>
 
 <div align="center">
-  
-  ## 👋 About Me
-  
-  <table>
-    <tr>
-      <td width="70%">
-        <p>I'm <strong>Pamod Madubashana</strong>, a <strong>Network Engineering student</strong> who builds real-world projects using <strong>web development, backend systems, and automation</strong>.</p>
-            <ul align="left">
-              <li>🧠 Interested in <strong>Networking, Backend Engineering, APIs, and System Design</strong></li>
-              <li>🤖 Building <strong>Telegram bots</strong> (Pyrogram, automation, custom dashboards)</li>
-              <li>🌍 Working on full-stack apps with <strong>React + Express + MongoDB</strong></li>
-              <li>🎯 Focused on clean UI, fast systems, and scalable architecture</li>
-        </ul>
-      </td>
-      <td width="30%" align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-<div align="center">
 
 
 <a href="https://github.com/pamod-madubashana">
@@ -54,20 +32,6 @@
 
 </div>
 <br>
-<div align="center">
-
-| Status | Area | Description |
-|--------|------|-------------|
-| ✅ | Frontend Development | React hooks, state management, responsive UI |
-| ✅ | Advanced Backend | Express / Node.js microservices & RESTful APIs |
-| ✅ | Database Design | MongoDB schema optimization & PostgreSQL |
-| ✅ | Automation | Telegram bots, Pyrogram, custom dashboards |
-| ✅ | DevOps | CI/CD pipelines, Docker, cloud deployments |
-| 🔧 | System Design | Scalable architectures & distributed systems |
-</div>
-<br>
-
-  
 </div>
 
 <br>
