@@ -6,6 +6,6 @@ So I build software to automate repetitive tasks and make life easier.
 
 **I build things to help humans, not replace them.**
 
-## 🚀 Things I've Built
+## ⭐ Things I've Built
 
 Check out some of my pinned repositories!
