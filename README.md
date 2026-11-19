@@ -1,4 +1,4 @@
-# Hi, I'm Pamod 👋
+# Hi, I'm [Pamod](https://pamod.is-a.dev/) 👋
 
 I'm a developer who gets bored doing the same things over and over.
 
